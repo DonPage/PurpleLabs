@@ -20,7 +20,7 @@ Solving the issue is simple, the only thing I had to do is change the href attri
 
 
 ## How this problem happened:
-PRPL Labs is still in it's infancy phase, while still being apart of the main agency (Purple, Rock Scissors), PRPL Labs are making their own move away from the company and becoming it's own thing. In doing so they changed domains and in turn caused this small problem with redirecting users to the right location.
+PRPL Labs is still in it's infancy phase, while still being apart of the main agency (Purple, Rock Scissors), PRPL Labs are making their own move away from the company and becoming it's own thing. In doing so they changed domains which in turn, caused this small problem with redirecting users to the right location.
 
 ## Solving ahead of time:
 As a developer myself I'm always thinking about the next step for the project. I must be able to account for working locally, deployment, and any major change in infrastructure. While changing domains was a major change that was done successfully, accounting for the changes in redirection of links slipped thru the cracks. One simple solution to this would to *NOT* link directly to the website. For Example:
