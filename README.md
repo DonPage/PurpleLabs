@@ -16,6 +16,8 @@ Solving the issue is simple, the only thing I had to do is change the href attri
 
 `<a href="http://prpllabs.com/glass/" target="_blank" class="ext-link white-button">Visit the Site</a>` OR `<a href="/glass/" target="_blank" class="ext-link white-button">Visit the Site</a>`
 
+<img src="http://donpage.github.io/images/PRPL-fix.gif"/>
+
 
 ## How this problem happened:
 PRPL Labs is still in it's infancy phase, while still being apart of the main agency (Purple, Rock Scissors), PRPL Labs are making their own move away from the company and becoming it's own thing. In doing so they changed domains and in turn caused this small problem with redirecting users to the right location.
@@ -33,7 +35,6 @@ As a developer myself I'm always thinking about the next step for the project. I
 
 `<a href="/glass/" target="_blank" class="ext-link white-button">Visit the Site</a>`
 
-<img src="http://donpage.github.io/images/PRPL-fix.gif"/>
 
 ---
 
