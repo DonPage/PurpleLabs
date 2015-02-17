@@ -51,6 +51,8 @@ As a developer myself I'm always thinking about the next step for the project. I
 ---
 
 #### Following the rules above will ensure that this issue doesn't happen again when changing domains.
+<img src="http://i.imgur.com/3nuaixP.gif" />
+
 
 Best wishes, DonPage | http://donpage.github.io
 
